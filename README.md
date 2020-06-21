@@ -21,7 +21,7 @@ The technical deliverables were analyzed in:
 This DataFrame shows us that the most rides with the most drivers we can find in the Urban city typer, the least in the Rural, but the highest average fare per ride and per drivers are in the Rural city types. Urban city types has 13 times more rides than Rural and 2.6 times more that in Suburban. Which translate to the highest Total Fares for Urban city types.
 
 ## Technical Analysis 2 – the technical deliverables were analyzed: 
-### in the Pivot table:  
+### * in the Pivot table:  
 where the total fares per week for each city type were calculated. Based on this Pivot table multiple-line graph was produced.
 
 | Date                |   Rural |   Suburban |   Urban |
@@ -44,7 +44,7 @@ where the total fares per week for each city type were calculated. Based on this
 | 2019-04-21 00:00:00 |  214.14 |    1149.27 | 2303.8  |
 | 2019-04-28 00:00:00 |  191.85 |    1357.75 | 2238.29 |
 
-### in multible-line graph that shows the total fares for each week by each city type
+### * in multible-line graph that shows the total fares for each week by each city type
 Pivot table and multiple-line graph shows us Total Fares by City Type over the period of four months with the sum of the fares for each week
 
 ![Total Fare by City Type](PyBer.png)
